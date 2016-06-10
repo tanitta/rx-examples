@@ -1,0 +1,14 @@
+{
+	"name": "rx-examples",
+	"authors": [
+		"lempiji"
+	],
+	"dependencies": {
+		"rx": "~>0.0.3",
+		"dlangui": "~>0.8.30"
+	},
+	"sourceFiles-windows": ["$PACKAGE_DIR/src/win_app.def"],
+	"description": "The sample for rx app.",
+	"copyright": "Copyright © 2016, lempiji",
+	"license": "MIT"
+}
